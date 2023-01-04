@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Changing name to check github- change/modify code and again upload in github</name>
+    <name>Changing name to check github- change/modify code and again upload in github - able to push and pull code successfully</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
